@@ -1,15 +1,3 @@
-#Return sum of unique values in an array
-
-nums = [ 1, 2, 2, 3, 2, 4]
-
-digit_counter = ["one" : 0, "two" :0 , "three": 0 , "four": 0, "five":0, "six": 0, "seven" : 0, "eight" : 0, "nine": 0 ]
-
-print(digit_counter)
-
-
-
-
-
 #Levret Munch
 #Baby leverets can only eat a total of 10 carrots, and not any more.
 #Write a function that takes in an array of integers that represent the number of carrots in each plot in a garden trail. 
